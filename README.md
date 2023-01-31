@@ -32,3 +32,4 @@ Data for Postman in json format
 		"LSTAT": 4.98
 	}
 }
+
